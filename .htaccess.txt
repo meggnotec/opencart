@@ -6,8 +6,8 @@
 
 Options +FollowSymlinks
 
-# Prevent Directoy listing 
-# Options -Indexes
+# Prevent Directoy listing in Opencart
+ Options -Indexes
 
 # Prevent Direct Access to files
 <FilesMatch "\.(tpl|ini|log)">
